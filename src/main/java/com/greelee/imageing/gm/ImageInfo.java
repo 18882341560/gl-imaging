@@ -1,4 +1,4 @@
-package com.greelee.imaginf.gm;
+package com.greelee.imageing.gm;
 
 import lombok.Builder;
 import lombok.Data;
